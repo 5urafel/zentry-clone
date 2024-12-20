@@ -1,11 +1,12 @@
 import React from "react";
 import Hero from "./components/Hero";
+import About from "./components/About";
 
 function App() {
   return (
     <main>
       <Hero />
-      <div className="w-screen min-h-screen">hi</div>
+      <About />
     </main>
   );
 }
