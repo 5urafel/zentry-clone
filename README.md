@@ -1,9 +1,3 @@
-
----
-
-# zentry-clone
-
-```markdown
 # 🎮 Zentry Animated Gaming Web Experience (Clone)
 
 A visually stunning, award-winning inspired gaming website featuring 3D scroll animations, interactive video morphing, clip-path masks, and micro-interactions powered by GSAP.
